@@ -1,0 +1,12 @@
+{'followers': u'6',
+ 'following': u'7',
+ 'fullname': u'Tiago Lupepic',
+ 'home_page': 'https://github.com/tiagolupepic',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/208438?v=3&s=460'],
+ 'joined': u'Feb 22, 2010',
+ 'mail': 'None',
+ 'organization': u'Curitiba - Brasil',
+ 'popular_repos': u'  Jquery-Price-Format avian-missing.tmbundle bootstrapped-rails counter_culture google-directions-ruby',
+ 'repo_contributions': u'  guru-pr/gurupr / / / /',
+ 'starred': u'16',
+ 'username': u'tiagolupepic'}

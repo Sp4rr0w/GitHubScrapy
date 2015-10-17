@@ -1,0 +1,12 @@
+{'followers': u'42',
+ 'following': u'934',
+ 'fullname': u'\u5c1a\u6653\u4e1c',
+ 'home_page': 'https://github.com/0359xiaodong',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/6148732?v=3&s=460'],
+ 'joined': u'Dec 10, 2013',
+ 'mail': u'0359xiaodong@gmail.com',
+ 'organization': 'None',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'2.6k',
+ 'username': u'0359xiaodong'}

@@ -1,0 +1,12 @@
+{'followers': u'35',
+ 'following': u'236',
+ 'fullname': u'Jo\xe3o Netto',
+ 'home_page': 'https://github.com/jnettome',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/502637?v=3&s=460'],
+ 'joined': u'Nov 29, 2010',
+ 'mail': u'hi@joaonetto.me',
+ 'organization': u'joaonetto.me',
+ 'popular_repos': u'  wordpress_kickstart spree_pagseguro documents-manager dojo-parana vitrine-imobiliaria-sinatra',
+ 'repo_contributions': u'  locomotivaml/locomotivaml.github.io encontreumnerd/ansible-eunerd spreesso/spreesso.github.io andresidius/andresidius.github.io encontreumnerd/iugu-ruby',
+ 'starred': u'557',
+ 'username': u'jnettome'}

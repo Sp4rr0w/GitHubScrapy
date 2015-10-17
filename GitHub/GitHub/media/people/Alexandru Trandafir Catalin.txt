@@ -1,0 +1,12 @@
+{'followers': u'3',
+ 'following': u'31',
+ 'fullname': u'Alexandru Trandafir Catalin',
+ 'home_page': 'https://github.com/atrandafir',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/3097251?v=3&s=460'],
+ 'joined': u'Dec 21, 2012',
+ 'mail': 'None',
+ 'organization': u'HeavyDots',
+ 'popular_repos': u'  parkapp_demo    ',
+ 'repo_contributions': u'  thegooddata/webapp thegooddata/extension HeavyDots/yii-sms HeavyDots/yii-tri-state-checkbox atom/atom',
+ 'starred': u'54',
+ 'username': u'atrandafir'}

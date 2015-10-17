@@ -1,0 +1,12 @@
+{'followers': u'4',
+ 'following': u'48',
+ 'fullname': u'Andrei',
+ 'home_page': 'https://github.com/indera',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/1429741?v=3&s=460'],
+ 'joined': u'Feb 11, 2012',
+ 'mail': 'None',
+ 'organization': 'None',
+ 'popular_repos': u'  dchecker alloy fis-gtm mdat react-router',
+ 'repo_contributions': u'  ctsit/redi-dropper-client ctsit/redi ctsit/barebones-flask-app ctsit/wordpress-vivo-card ctsit/report_generator',
+ 'starred': u'160',
+ 'username': u'indera'}

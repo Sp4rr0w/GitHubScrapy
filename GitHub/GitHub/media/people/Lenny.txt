@@ -1,0 +1,12 @@
+{'followers': u'24',
+ 'following': u'7',
+ 'fullname': u'Lenny',
+ 'home_page': 'https://github.com/itslenny',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/5210230?v=3&s=460'],
+ 'joined': u'Aug 12, 2013',
+ 'mail': 'None',
+ 'organization': u'Seattle, WA, USA',
+ 'popular_repos': u'  angular-pretty-checkable angular-bootstrap-file-field angular-slidezilla Sails-Chatter trashley_saddison',
+ 'repo_contributions': u'  wdi-sea-01/notes bridgpal/hwtest FinalMarkdown/FinalMarkdown bhague1281/project3-test wdi-sea-01/rio_grande_lab',
+ 'starred': u'12',
+ 'username': u'itslenny'}

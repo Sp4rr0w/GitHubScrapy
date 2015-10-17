@@ -1,0 +1,12 @@
+{'followers': u'107',
+ 'following': u'79',
+ 'fullname': u'Diogo Moretti',
+ 'home_page': 'https://github.com/diogomoretti',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/2853428?v=3&s=460'],
+ 'joined': u'Nov 21, 2012',
+ 'mail': 'None',
+ 'organization': u'Chaordic',
+ 'popular_repos': u'  grider Be-Flat sgs slush-ixqueleto workshop-ufsc',
+ 'repo_contributions': u'  floripajs/gorilla braziljs/braziljs.org frontinfloripa/frontinfloripa.com.br whoyouarepj/www.whoyouare.com.br floripajs/floripajs.org',
+ 'starred': u'946',
+ 'username': u'diogomoretti'}

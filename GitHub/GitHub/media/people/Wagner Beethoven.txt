@@ -1,0 +1,12 @@
+{'followers': u'2',
+ 'following': u'27',
+ 'fullname': u'Wagner Beethoven',
+ 'home_page': 'https://github.com/wagnerbeethoven',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/3411635?v=3&s=460'],
+ 'joined': u'Jan 29, 2013',
+ 'mail': u'contato@sumo.pe',
+ 'organization': u'Ag\xeancia Sum\xf4',
+ 'popular_repos': u'  3dtransforms autoprefixer-core bootstrap-hover-dropdown bootstrap-wysiwyg css-positions',
+ 'repo_contributions': u'  revistazena/revistazena.github.io / / / /',
+ 'starred': u'17',
+ 'username': u'wagnerbeethoven'}

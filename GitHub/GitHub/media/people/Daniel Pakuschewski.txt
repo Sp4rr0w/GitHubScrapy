@@ -1,0 +1,12 @@
+{'followers': u'36',
+ 'following': u'57',
+ 'fullname': u'Daniel Pakuschewski',
+ 'home_page': 'https://github.com/Danielpk',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/101041?v=3&s=460'],
+ 'joined': u'Jul 2, 2009',
+ 'mail': u'contato@danielpk.com.br',
+ 'organization': u'Rocket Studio',
+ 'popular_repos': u'  boletos CakePHP-Facebook-Auth mina-composer WP-Revision-Post mina-cakephp',
+ 'repo_contributions': u'  Estilyngue/job-board carlosantoniodasilva/i18n_alchemy ionia-corporation/active_force nate-parrott/Flashlight rocketstudio/vagas',
+ 'starred': u'281',
+ 'username': u'Danielpk'}

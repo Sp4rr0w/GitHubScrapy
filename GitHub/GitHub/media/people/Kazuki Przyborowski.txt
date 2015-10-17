@@ -1,0 +1,12 @@
+{'followers': u'21',
+ 'following': u'287',
+ 'fullname': u'Kazuki Przyborowski',
+ 'home_page': 'https://github.com/KazukiPrzyborowski',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/42611?v=3&s=460'],
+ 'joined': u'Dec 25, 2008',
+ 'mail': u'kazuki.przyborowski@gmail.com',
+ 'organization': u'Game Maker 2k',
+ 'popular_repos': u'  jquery jquery torvalds linux mrdoob three.js TryGhost Ghost rust-lang rust',
+ 'repo_contributions': u'  GameMaker2k/PyUPC-EAN GameMaker2k/iDB GameMaker2k/PyXML-Draw GameMaker2k/NXEngine GameMaker2k/PyQEMU-CLI',
+ 'starred': u'528',
+ 'username': u'KazukiPrzyborowski'}

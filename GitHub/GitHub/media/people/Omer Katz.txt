@@ -1,0 +1,12 @@
+{'followers': u'89',
+ 'following': u'1.2k',
+ 'fullname': u'Omer Katz',
+ 'home_page': 'https://github.com/thedrow',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/48936?v=3&s=460'],
+ 'joined': u'Jan 24, 2009',
+ 'mail': u'omer.drow@gmail.com',
+ 'organization': u'Zimperium',
+ 'popular_repos': u'  django-natural-query django-knockback dojango pyr3 d20rules',
+ 'repo_contributions': u'  celery/celery Bash-it/bash-it idan/oauthlib MongoEngine/mongoengine tomchristie/django-rest-framework',
+ 'starred': u'5.9k',
+ 'username': u'thedrow'}

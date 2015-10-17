@@ -1,0 +1,12 @@
+{'followers': u'66',
+ 'following': u'154',
+ 'fullname': u'Mario Idival',
+ 'home_page': 'https://github.com/marioidival',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/1129263?v=3&s=460'],
+ 'joined': u'Oct 14, 2011',
+ 'mail': u'marioidival@gmail.com',
+ 'organization': u'poorny',
+ 'popular_repos': u'  pyramid_mongoengine bro multipserve pyramid_todo_half mommy',
+ 'repo_contributions': u'  poorny/translate poorny/utils Pylons/pyramid_jinja2 avelino/awesome-go EvandroLG/pegasus.lua',
+ 'starred': u'344',
+ 'username': u'marioidival'}

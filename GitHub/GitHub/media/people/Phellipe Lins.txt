@@ -1,0 +1,12 @@
+{'followers': u'4',
+ 'following': u'6',
+ 'fullname': u'Phellipe Lins',
+ 'home_page': 'https://github.com/phellipelins',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/4406870?v=3&s=460'],
+ 'joined': u'May 12, 2013',
+ 'mail': u'phellipelins@gmail.com',
+ 'organization': u'Jo\xe3o Pessoa, PB - Brazil',
+ 'popular_repos': u'  bootstrap-material-design bootstrapwp-Twitter-Bootstrap-for-WordPress phellipelins.github.io posproject ',
+ 'repo_contributions': u'  cassioscabral/sciquiz / / / /',
+ 'starred': u'5',
+ 'username': u'phellipelins'}

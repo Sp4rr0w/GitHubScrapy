@@ -1,0 +1,12 @@
+{'followers': u'17',
+ 'following': u'61',
+ 'fullname': u'Derek Bourgeois',
+ 'home_page': 'https://github.com/iBourgeois',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/3633464?v=3&s=460'],
+ 'joined': u'Feb 19, 2013',
+ 'mail': u'derek@ibourgeois.com',
+ 'organization': u'iBourgeois',
+ 'popular_repos': u'  LaraEdit php-html-class DevBox DevOps lighthouse',
+ 'repo_contributions': u'  laraedit/laraedit CompanyMate/deploy RemiCollin/GuzzleCache laravel/spark laravel/settler',
+ 'starred': u'36',
+ 'username': u'iBourgeois'}

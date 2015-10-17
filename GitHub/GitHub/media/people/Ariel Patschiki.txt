@@ -1,0 +1,12 @@
+{'followers': u'30',
+ 'following': u'146',
+ 'fullname': u'Ariel Patschiki',
+ 'home_page': 'https://github.com/arielpts',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/868079?v=3&s=460'],
+ 'joined': u'Jun 22, 2011',
+ 'mail': u'arielpts@me.com',
+ 'organization': u'Curitiba, Paran\xe1, Brazil',
+ 'popular_repos': u'  shitdb mysql-proxy-arel RestKit rockmongo AccordionView',
+ 'repo_contributions': u'  brainyatom/opsworks-sidekiq / / / /',
+ 'starred': u'460',
+ 'username': u'arielpts'}

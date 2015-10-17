@@ -1,0 +1,12 @@
+{'followers': u'18',
+ 'following': u'33',
+ 'fullname': u'Richard Hart',
+ 'home_page': 'https://github.com/Hates',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/4784?v=3&s=460'],
+ 'joined': u'Apr 3, 2008',
+ 'mail': u'richard@ur-ban.com',
+ 'organization': u'London, UK',
+ 'popular_repos': u'  spree_abandoned_cart_email spree_stock_email doomguy_growl_autotest git_add_commit_push spree_textacular_search',
+ 'repo_contributions': u'  suggestionio/ecommerce_toolkit andrewculver/koudoku spree/spree spree-contrib/spree_reviews suggestionio/koudoku',
+ 'starred': u'59',
+ 'username': u'Hates'}

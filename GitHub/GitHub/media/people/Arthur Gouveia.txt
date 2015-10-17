@@ -1,0 +1,12 @@
+{'followers': u'97',
+ 'following': u'52',
+ 'fullname': u'Arthur Gouveia',
+ 'home_page': 'https://github.com/arthurgouveia',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/642737?v=3&s=460'],
+ 'joined': u'Feb 28, 2011',
+ 'mail': 'None',
+ 'organization': u'Bracket Army',
+ 'popular_repos': u'  prettyCheckable bebop angular-yts youRepeat alfred-workflows',
+ 'repo_contributions': u'  php-pb/PHPinga zvaehn/alfred-quick-emoticons paraibajs/paraibajs.github.io hugopl/reviewit /',
+ 'starred': u'42',
+ 'username': u'arthurgouveia'}

@@ -1,0 +1,12 @@
+{'followers': u'0',
+ 'following': u'1',
+ 'fullname': u'Phill Rodgers',
+ 'home_page': 'https://github.com/placeposition',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/4497319?v=3&s=460'],
+ 'joined': u'May 22, 2013',
+ 'mail': u'me@philliprodgers.com',
+ 'organization': u'Placeposition Ltd',
+ 'popular_repos': u'  select2 select2 mledoze countries rackspace php-opencloud  ',
+ 'repo_contributions': u'  mailgun/validator-demo / / / /',
+ 'starred': u'3',
+ 'username': u'placeposition'}

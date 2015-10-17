@@ -1,0 +1,12 @@
+{'followers': u'24',
+ 'following': u'62',
+ 'fullname': u'Jota Teles',
+ 'home_page': 'https://github.com/teles',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/762639?v=3&s=460'],
+ 'joined': u'May 2, 2011',
+ 'mail': u'josetelesmaciel@gmail.com',
+ 'organization': u'Viva Decora',
+ 'popular_repos': u'  pure-css-parallel-park teles.github.io awesome-seo open-icons awesome-awesomeness',
+ 'repo_contributions': u'  vivadecora/front-end-teste markpad/markpad.github.io vagasfrontend/vagas woliveiras/pastel willianjusten/awesome-svg',
+ 'starred': u'59',
+ 'username': u'teles'}

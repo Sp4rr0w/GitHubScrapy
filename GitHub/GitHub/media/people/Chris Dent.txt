@@ -1,0 +1,12 @@
+{'followers': u'72',
+ 'following': u'95',
+ 'fullname': u'Chris Dent',
+ 'home_page': 'https://github.com/cdent',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/34498?v=3&s=460'],
+ 'joined': u'Nov 14, 2008',
+ 'mail': u'chris.dent@gmail.com',
+ 'organization': u'Cornwall, UK',
+ 'popular_repos': u'  gabbi wsgi-intercept tiddlyhoster py-ostatus tank',
+ 'repo_contributions': u'  openstack/ceilometer openstack/gnocchi openstack-dev/devstack arioch/puppet-redis tiddlyweb/tiddlyweb',
+ 'starred': u'174',
+ 'username': u'cdent'}

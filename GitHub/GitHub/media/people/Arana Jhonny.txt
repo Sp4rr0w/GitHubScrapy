@@ -1,0 +1,12 @@
+{'followers': u'27',
+ 'following': u'226',
+ 'fullname': u'Arana Jhonny',
+ 'home_page': 'https://github.com/aranajhonny',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/9091881?v=3&s=460'],
+ 'joined': u'Oct 8, 2014',
+ 'mail': u'jhonnyjosearana@gmail.com',
+ 'organization': u'Aragua, Venezuela.',
+ 'popular_repos': u'  aranajhonny.github.io work-c-lang lenguaje-c platzi-curso-Frontend ciudades-de-vzla',
+ 'repo_contributions': u'  UPTAconC/lenguaje-c yomoncada/yomoncada.github.io UptaJS/Practicas-AngularJS atom/atom jobsamuel/venezuela-json',
+ 'starred': u'159',
+ 'username': u'aranajhonny'}

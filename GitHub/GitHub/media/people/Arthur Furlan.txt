@@ -1,0 +1,12 @@
+{'followers': u'63',
+ 'following': u'125',
+ 'fullname': u'Arthur Furlan',
+ 'home_page': 'https://github.com/arthurfurlan',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/52408?v=3&s=460'],
+ 'joined': u'Feb 6, 2009',
+ 'mail': u'afurlan@afurlan.org',
+ 'organization': u'Configr',
+ 'popular_repos': u'  django-shortim nginx-config-templates minify-media dojo-polyglot-environ gunicorn_django-initscript',
+ 'repo_contributions': u'  configr/vaga-python-django devops-br/planet configr/planeta.puppet-br.org / /',
+ 'starred': u'134',
+ 'username': u'arthurfurlan'}

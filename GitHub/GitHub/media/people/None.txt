@@ -1,0 +1,12 @@
+{'followers': u'1',
+ 'following': u'4',
+ 'fullname': 'None',
+ 'home_page': 'https://github.com/Anna3005ka',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/12263635?v=3&s=460'],
+ 'joined': u'May 5, 2015',
+ 'mail': 'None',
+ 'organization': 'None',
+ 'popular_repos': u'  crashlytics-services - angular.js emoji-cheat-sheet.com facebook-ios-sdk',
+ 'repo_contributions': u'  arvida/emoji-cheat-sheet.com / / / /',
+ 'starred': u'5',
+ 'username': u'Anna3005ka'}

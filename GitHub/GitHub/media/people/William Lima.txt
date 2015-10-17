@@ -1,0 +1,12 @@
+{'followers': u'1',
+ 'following': u'4',
+ 'fullname': u'William Lima',
+ 'home_page': 'https://github.com/williammustaffa',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/6594876?v=3&s=460'],
+ 'joined': u'Feb 5, 2014',
+ 'mail': 'None',
+ 'organization': u'Object Edge',
+ 'popular_repos': u'  jquery.dad.js bootstrapvalidator   ',
+ 'repo_contributions': u'  malsup/cycle2 / / / /',
+ 'starred': u'9',
+ 'username': u'williammustaffa'}

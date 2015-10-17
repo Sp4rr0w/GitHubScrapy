@@ -1,0 +1,12 @@
+{'followers': u'18',
+ 'following': u'78',
+ 'fullname': u'Josue Kouka',
+ 'home_page': 'https://github.com/josuebrunel',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/1620640?v=3&s=460'],
+ 'joined': u'Apr 7, 2012',
+ 'mail': u'josuebrunel@gmail.com',
+ 'organization': u'Pointe-Noire (Congo), Paris (France)',
+ 'popular_repos': u'  myql yahoo-oauth bowee myscripts oeutils',
+ 'repo_contributions': u'  sosmooth/smooth-cache-cleaner cttn/Stockex lincus/AppTranslator gurch101/StockScraper lambdafu/django-south',
+ 'starred': u'238',
+ 'username': u'josuebrunel'}

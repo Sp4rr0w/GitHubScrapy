@@ -1,0 +1,12 @@
+{'followers': u'134',
+ 'following': u'5.4k',
+ 'fullname': u'Joe Gesualdo',
+ 'home_page': 'https://github.com/joegesualdo',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/2592156?v=3&s=460'],
+ 'joined': u'Oct 18, 2012',
+ 'mail': u'joegesualdo@gmail.com',
+ 'organization': u'Farmivore',
+ 'popular_repos': u'  subtitle-hero vocab-fetcher stock-fetcher directory-hero index-of-array-sequence',
+ 'repo_contributions': u'  bevry/typechecker fent/node-youtube-dl / / /',
+ 'starred': u'483',
+ 'username': u'joegesualdo'}

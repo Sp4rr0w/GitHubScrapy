@@ -1,0 +1,12 @@
+{'followers': u'19',
+ 'following': u'127',
+ 'fullname': u'Welkson Ramos',
+ 'home_page': 'https://github.com/welksonramos',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/5823027?v=3&s=460'],
+ 'joined': u'Oct 31, 2013',
+ 'mail': u'welksonr@hotmail.com',
+ 'organization': u'S\xe3o Lu\xeds-MA/Brasil',
+ 'popular_repos': u'  slush-joomla letras hexo-tag-4shared hexo-tag-vine slush-jmodule',
+ 'repo_contributions': u'  detalhar/mod_dt_simple_map LFeh/useful-tools detalhar/mod_dt_facebook_page hexojs/site detalhar/joomla3-simple-snippets',
+ 'starred': u'246',
+ 'username': u'welksonramos'}

@@ -1,0 +1,12 @@
+{'followers': u'26',
+ 'following': u'216',
+ 'fullname': u'Mauricio nunes dos reis',
+ 'home_page': 'https://github.com/mauricionr',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/2263551?v=3&s=460'],
+ 'joined': u'Sep 2, 2012',
+ 'mail': u'mauricioskateboard@gmail.com',
+ 'organization': u'Multconnect',
+ 'popular_repos': u'  material windows-phone-oauth-sdk-demo dropwizard-auth-ldap VideoChatWebRTC node-postgres-todo',
+ 'repo_contributions': u'  hernanimattos/lab1.0-hybridapp hernanimattos/meteor-simple-todo simonswain/haystack netcombr/netcombrsite OfficeDev/Contacts-API-NodeJS-AppModelV2',
+ 'starred': u'142',
+ 'username': u'mauricionr'}

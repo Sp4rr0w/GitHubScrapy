@@ -1,0 +1,12 @@
+{'followers': u'7',
+ 'following': u'7',
+ 'fullname': u'\xcdcaro R. Scherma',
+ 'home_page': 'https://github.com/icaroscherma',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/42467?v=3&s=460'],
+ 'joined': u'Dec 24, 2008',
+ 'mail': u'icaro@scherma.com.br',
+ 'organization': u'Scherma',
+ 'popular_repos': u'  arqsoft_extras bootstrap3-helpers Cake3-CookieAuth CakePdf cakephp',
+ 'repo_contributions': u'  cakephp/cakephp Xety/Cake3-CookieAuth Disciplina-Arquitetura-de-software/game-aliado cakephp/docs FriendsOfCake/CakePdf',
+ 'starred': u'15',
+ 'username': u'icaroscherma'}

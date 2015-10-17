@@ -1,0 +1,12 @@
+{'followers': u'65',
+ 'following': u'993',
+ 'fullname': u'\u9ad8\u68b5\u68b5\u9ad8',
+ 'home_page': 'https://github.com/simongfxu',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/2288388?v=3&s=460'],
+ 'joined': u'Sep 6, 2012',
+ 'mail': u'simon@dataeye.com',
+ 'organization': u'DataEye',
+ 'popular_repos': u'  mongoomise simongfxu.github.com animate.css javascript-simple-console rvc',
+ 'repo_contributions': u'  DataEye/WebRoot DataEye/www.dataeye.com DataEye/NodeApp DataEye/DataEye-Tutorials ProjectJS/projectjs',
+ 'starred': u'754',
+ 'username': u'simongfxu'}

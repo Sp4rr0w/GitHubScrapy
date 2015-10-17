@@ -1,0 +1,12 @@
+{'followers': u'13',
+ 'following': u'198',
+ 'fullname': u'Elon Zito',
+ 'home_page': 'https://github.com/simsketch',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/3129129?v=3&s=460'],
+ 'joined': u'Dec 26, 2012',
+ 'mail': u'simsketch@gmail.com',
+ 'organization': u'a2zCreative',
+ 'popular_repos': u'  blur-bg-fade-edge simsketch.github.io android-UniversalMusicPlayer ios photobox',
+ 'repo_contributions': u'  blivesta/animsition ReneMoraales/songroll-sky dimsemenov/Magnific-Popup antiguab/BAFluidView mozilla/popcorn.webmaker.org',
+ 'starred': u'514',
+ 'username': u'simsketch'}

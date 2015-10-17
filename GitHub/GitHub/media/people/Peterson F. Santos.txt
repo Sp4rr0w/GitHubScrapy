@@ -1,0 +1,12 @@
+{'followers': u'17',
+ 'following': u'71',
+ 'fullname': u'Peterson F. Santos',
+ 'home_page': 'https://github.com/petersonfs',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/533635?v=3&s=460'],
+ 'joined': u'Dec 22, 2010',
+ 'mail': u'petersonferreiras@gmail.com',
+ 'organization': u'ateliware',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'169',
+ 'username': u'petersonfs'}

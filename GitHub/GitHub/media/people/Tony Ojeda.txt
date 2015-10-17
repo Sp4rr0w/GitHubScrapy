@@ -1,0 +1,12 @@
+{'followers': u'9',
+ 'following': u'6',
+ 'fullname': u'Tony Ojeda',
+ 'home_page': 'https://github.com/ojedatony1616',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/1253136?v=3&s=460'],
+ 'joined': u'Dec 9, 2011',
+ 'mail': u'tojeda@districtdatalabs.com',
+ 'organization': u'Washington, DC',
+ 'popular_repos': u'  baleen    ',
+ 'repo_contributions': u'  georgetown-analytics/envirohealth DistrictDataLabs/blog-files georgetown-analytics/investment-analyzers georgetown-analytics/dc-crimebusters georgetown-analytics/triptomizer',
+ 'starred': u'0',
+ 'username': u'ojedatony1616'}

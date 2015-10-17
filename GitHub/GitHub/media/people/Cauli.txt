@@ -1,0 +1,12 @@
+{'followers': u'6',
+ 'following': u'19',
+ 'fullname': u'Cauli',
+ 'home_page': 'https://github.com/cauli',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/284283?v=3&s=460'],
+ 'joined': u'May 22, 2010',
+ 'mail': 'None',
+ 'organization': u'Curitiba - Brazil',
+ 'popular_repos': u'  TwineJson PicoBox bicicletasroubadas CTL460K HTPressableButton',
+ 'repo_contributions': u'  gillesdemey/node-record-lpcm16 markeeftb/FileOpener romanmatiasko/reti-chess ritz078/socialShare.js leesherwood/Orientation-Fix-PHP',
+ 'starred': u'273',
+ 'username': u'cauli'}

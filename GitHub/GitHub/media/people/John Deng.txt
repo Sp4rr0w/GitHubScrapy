@@ -1,0 +1,12 @@
+{'followers': u'24',
+ 'following': u'34',
+ 'fullname': u'John Deng',
+ 'home_page': 'https://github.com/johndeng',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/2155510?v=3&s=460'],
+ 'joined': u'Aug 15, 2012',
+ 'mail': 'None',
+ 'organization': u'China',
+ 'popular_repos': u'  gas weixin-simulator angularjs-cn optimus appengine',
+ 'repo_contributions': u'  xyfcode/ExcelToJson astaxie/beego geerk/django_linter coreos/rkt TheWaWaR/python-chat',
+ 'starred': u'963',
+ 'username': u'johndeng'}

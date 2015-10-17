@@ -1,0 +1,12 @@
+{'followers': u'33',
+ 'following': u'115',
+ 'fullname': u'Michael Rice',
+ 'home_page': 'https://github.com/michaelrice',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/441148?v=3&s=460'],
+ 'joined': u'Oct 15, 2010',
+ 'mail': u'errr@errr-online.com',
+ 'organization': u'Rackspace Hosting',
+ 'popular_repos': u'  fluxStyle centos_python_env_setup pyvmomi-community-samples thunderhead WeakSSL',
+ 'repo_contributions': u'  yavijava/yavijava virtdevninja/steel_pigs yavijava/yavijava_generator yavijava/yavijava.github.io virtdevninja/simdeplower',
+ 'starred': u'107',
+ 'username': u'michaelrice'}

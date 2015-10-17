@@ -1,0 +1,12 @@
+{'followers': u'9',
+ 'following': u'53',
+ 'fullname': u'David',
+ 'home_page': 'https://github.com/multikatt',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/389800?v=3&s=460'],
+ 'joined': u'Sep 6, 2010',
+ 'mail': 'None',
+ 'organization': 'None',
+ 'popular_repos': u'  Ruby-on-Rails-Tutorial Yet-another-Sinatra-Blog-Engine awesome K-R annotate_models',
+ 'repo_contributions': u'  sampsyo/beets PurpleI2P/i2pd ipfs/go-ipfs RuudBurger/CouchPotatoServer rabbitmq/rabbitmq-website',
+ 'starred': u'231',
+ 'username': u'multikatt'}

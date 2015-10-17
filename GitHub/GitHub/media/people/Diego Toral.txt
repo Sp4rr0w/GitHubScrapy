@@ -1,0 +1,12 @@
+{'followers': u'36',
+ 'following': u'32',
+ 'fullname': u'Diego Toral',
+ 'home_page': 'https://github.com/diegotoral',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/624418?v=3&s=460'],
+ 'joined': u'Feb 18, 2011',
+ 'mail': u'diegotoral@gmail.com',
+ 'organization': u'Natal, RN',
+ 'popular_repos': u'  generator-django Books Instajam Anna docker-lampstack',
+ 'repo_contributions': u'  dayanepabla/estrutura_de_dados_one roo-rb/roo nkallen/cache-money jeffersonmourak/pyTerm zendesk/curly',
+ 'starred': u'891',
+ 'username': u'diegotoral'}

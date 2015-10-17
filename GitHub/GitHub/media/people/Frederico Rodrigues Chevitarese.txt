@@ -1,0 +1,12 @@
+{'followers': u'2',
+ 'following': u'6',
+ 'fullname': u'Frederico Rodrigues Chevitarese',
+ 'home_page': 'https://github.com/fchevitarese',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/32967?v=3&s=460'],
+ 'joined': u'Nov 6, 2008',
+ 'mail': u'fchevitarese@gmail.com',
+ 'organization': u'Belo Horizonte',
+ 'popular_repos': u'  django-generate-scaffold django-pgjson django_object_log speakerfight thinkster-djangular-tutorial',
+ 'repo_contributions': u'  eluizbr/cadastro_cdrport eluizbr/cdr-port celery/celery fxdgear/atom-python-debugger /',
+ 'starred': u'113',
+ 'username': u'fchevitarese'}

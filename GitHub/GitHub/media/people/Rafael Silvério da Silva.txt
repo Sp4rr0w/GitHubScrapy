@@ -1,0 +1,12 @@
+{'followers': u'18',
+ 'following': u'24',
+ 'fullname': u'Rafael Silv\xe9rio da Silva',
+ 'home_page': 'https://github.com/rafasilverio',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/5349919?v=3&s=460'],
+ 'joined': u'Aug 30, 2013',
+ 'mail': 'None',
+ 'organization': u'Eadbox',
+ 'popular_repos': u'  basicpress rafasilverio.github.io streetmix zendesk_help_rails angular.js',
+ 'repo_contributions': u'  codersutfpr/codersutfpr.github.io codersutfpr/blog codersutfpr/quick-blog / /',
+ 'starred': u'89',
+ 'username': u'rafasilverio'}

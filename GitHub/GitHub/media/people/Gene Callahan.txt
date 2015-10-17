@@ -1,0 +1,12 @@
+{'followers': u'2',
+ 'following': u'2',
+ 'fullname': u'Gene Callahan',
+ 'home_page': 'https://github.com/gcallah',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/9886904?v=3&s=460'],
+ 'joined': u'Nov 21, 2014',
+ 'mail': 'None',
+ 'organization': 'None',
+ 'popular_repos': u'  Indra GenericProgramming GenericVB GradePointAverage matplotlib',
+ 'repo_contributions': u'  projectmesa/mesa matplotlib/matplotlib / / /',
+ 'starred': u'0',
+ 'username': u'gcallah'}

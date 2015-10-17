@@ -1,0 +1,12 @@
+{'followers': u'45',
+ 'following': u'304',
+ 'fullname': u'Breno Polanski',
+ 'home_page': 'https://github.com/brenopolanski',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/1894191?v=3&s=460'],
+ 'joined': u'Jun 26, 2012',
+ 'mail': u'breno.polanski@gmail.com',
+ 'organization': u'Meteorite BI',
+ 'popular_repos': u'  css-comments-sublime-snippets all-github-emoji-icons webapp-boilerplate geocodigos-brasil saiku-plugin-boilerplate',
+ 'repo_contributions': u'  OSBI/saiku-ui OSBI/saiku OSBI/meteorite-core-ui joaoarthurbm/designwizard raphamorim/write-code-every-day',
+ 'starred': u'1.1k',
+ 'username': u'brenopolanski'}

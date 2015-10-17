@@ -1,0 +1,12 @@
+{'followers': u'153',
+ 'following': u'617',
+ 'fullname': u'Ivan Santos',
+ 'home_page': 'https://github.com/pragmaticivan',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/301291?v=3&s=460'],
+ 'joined': u'Jun 9, 2010',
+ 'mail': u'pragmaticivan@gmail.com',
+ 'organization': u'Austin, TX',
+ 'popular_repos': u'  grape-swagger-rails trabalhando_fora braziljs.org brcobranca-exemplo-rails3-2 nfse',
+ 'repo_contributions': u'  alagoasdevday/alagoasdevday.com.br RubyCastsBrasil/RubyCastsBrasil PerfilPublico/PerfilPublico nomadsonrails/guia-do-trabalho-remoto alagoasdevday/launch-page',
+ 'starred': u'231',
+ 'username': u'pragmaticivan'}

@@ -1,0 +1,12 @@
+{'followers': u'100',
+ 'following': u'307',
+ 'fullname': u'Raghav Dua',
+ 'home_page': 'https://github.com/duaraghav8',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/12758282?v=3&s=460'],
+ 'joined': u'Jun 5, 2015',
+ 'mail': u'duaraghav8@gmail.com',
+ 'organization': u'Gurgaon',
+ 'popular_repos': u'  Algorithms Android MailGriller AI Autoconfig',
+ 'repo_contributions': u'  bigWaitForItOh/Heuristic-Algorithms bigWaitForItOh/Graph-Algorithms evamy/Algorithms / /',
+ 'starred': u'6',
+ 'username': u'duaraghav8'}

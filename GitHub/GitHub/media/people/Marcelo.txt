@@ -1,0 +1,12 @@
+{'followers': u'8',
+ 'following': u'100',
+ 'fullname': u'Marcelo',
+ 'home_page': 'https://github.com/chelogui',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/1084334?v=3&s=460'],
+ 'joined': u'Sep 27, 2011',
+ 'mail': u'chelogui@gmail.com',
+ 'organization': u'Natal RN',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'110',
+ 'username': u'chelogui'}

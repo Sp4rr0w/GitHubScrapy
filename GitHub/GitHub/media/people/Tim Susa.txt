@@ -1,0 +1,12 @@
+{'followers': u'1',
+ 'following': u'7',
+ 'fullname': u'Tim Susa',
+ 'home_page': 'https://github.com/TimSusa',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/8963529?v=3&s=460'],
+ 'joined': u'Sep 29, 2014',
+ 'mail': 'None',
+ 'organization': u'AltusInsight',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'1',
+ 'username': u'TimSusa'}

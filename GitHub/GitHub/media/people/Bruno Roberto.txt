@@ -1,0 +1,12 @@
+{'followers': u'6',
+ 'following': u'10',
+ 'fullname': u'Bruno Roberto',
+ 'home_page': 'https://github.com/brunoroberto',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/1735715?v=3&s=460'],
+ 'joined': u'May 14, 2012',
+ 'mail': u'bfernandes@alunos.utfpr.edu.br',
+ 'organization': u'Curitiba, Paran\xe1, Brazil',
+ 'popular_repos': '      ',
+ 'repo_contributions': u'  raphaeljlps/imdb relan/exfat / / /',
+ 'starred': u'0',
+ 'username': u'brunoroberto'}

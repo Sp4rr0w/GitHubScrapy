@@ -1,0 +1,12 @@
+{'followers': u'5',
+ 'following': u'2',
+ 'fullname': u'BartGo',
+ 'home_page': 'https://github.com/BartGo',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/9272630?v=3&s=460'],
+ 'joined': u'Oct 16, 2014',
+ 'mail': 'None',
+ 'organization': 'None',
+ 'popular_repos': u'  bash-boilerplate hotqueue-drafts zcbuildout-drafts bottle-cfip jstree',
+ 'repo_contributions': u'  lobocv/crashreporter berdario/pew sashahart/vex Kraigo/glanceyear /',
+ 'starred': u'598',
+ 'username': u'BartGo'}

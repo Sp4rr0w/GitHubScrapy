@@ -1,0 +1,12 @@
+{'followers': u'6',
+ 'following': u'23',
+ 'fullname': u'Omar Koudsi',
+ 'home_page': 'https://github.com/omarfk',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/2174967?v=3&s=460'],
+ 'joined': u'Aug 18, 2012',
+ 'mail': 'None',
+ 'organization': u'Jeeran',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'1',
+ 'username': u'omarfk'}

@@ -1,0 +1,12 @@
+{'followers': u'18',
+ 'following': u'117',
+ 'fullname': u'Chris Hart',
+ 'home_page': 'https://github.com/chrstphrhrt',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/461274?v=3&s=460'],
+ 'joined': u'Oct 31, 2010',
+ 'mail': 'None',
+ 'organization': u'Montreal',
+ 'popular_repos': u'  ramses-tutorial ramses-elasticsearch django-googwebopt flask-admin-heroku imaginationforpeople',
+ 'repo_contributions': u'  brandicted/nefertari brandicted/ramses brandicted/nefertari-sqla brandicted/nefertari-example brandicted/ramses-site',
+ 'starred': u'444',
+ 'username': u'chrstphrhrt'}

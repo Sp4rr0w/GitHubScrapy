@@ -1,0 +1,12 @@
+{'followers': u'124',
+ 'following': u'70',
+ 'fullname': u'Danilo de Jesus da Silva Bellini',
+ 'home_page': 'https://github.com/danilobellini',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/2096474?v=3&s=460'],
+ 'joined': u'Aug 5, 2012',
+ 'mail': u'danilo.bellini@gmail.com',
+ 'organization': u'Sao Paulo, Brazil',
+ 'popular_repos': u'  audiolazy dose fractals design_patterns brutoliquido',
+ 'repo_contributions': u'  IgnorantGuru/rmdupe numba/llvmlite / / /',
+ 'starred': u'16',
+ 'username': u'danilobellini'}

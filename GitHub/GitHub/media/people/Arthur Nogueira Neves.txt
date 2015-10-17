@@ -1,0 +1,12 @@
+{'followers': u'382',
+ 'following': u'1.4k',
+ 'fullname': u'Arthur Nogueira Neves',
+ 'home_page': 'https://github.com/arthurnn',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/833383?v=3&s=460'],
+ 'joined': u'Jun 6, 2011',
+ 'mail': u'github@arthurnn.com',
+ 'organization': u'Toronto',
+ 'popular_repos': u'  apn_sender howdoi-emacs cheatly octostalker minitest-emacs',
+ 'repo_contributions': u'  rubygems/rubygems.org rails/rails rails/docrails errbit/errbit rubygems/rubygems.org-backup',
+ 'starred': u'444',
+ 'username': u'arthurnn'}

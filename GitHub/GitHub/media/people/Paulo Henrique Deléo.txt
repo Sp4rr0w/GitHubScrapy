@@ -1,0 +1,12 @@
+{'followers': u'11',
+ 'following': u'4',
+ 'fullname': u'Paulo Henrique Del\xe9o',
+ 'home_page': 'https://github.com/paulodeleo',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/208117?v=3&s=460'],
+ 'joined': u'Feb 22, 2010',
+ 'mail': 'None',
+ 'organization': u'Curitiba - PR, Brazil',
+ 'popular_repos': u'  geojson pill_alarm conditions_fu migration-estados-cidade-do-brasil touchpad_toggler',
+ 'repo_contributions': u'  pipefy/pipefy-api-docs ateliware/pipefy-harvest-chrome / / /',
+ 'starred': u'125',
+ 'username': u'paulodeleo'}

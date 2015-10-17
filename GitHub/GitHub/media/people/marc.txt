@@ -1,0 +1,12 @@
+{'followers': u'26',
+ 'following': u'326',
+ 'fullname': u'marc',
+ 'home_page': 'https://github.com/marctmiller',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/624770?v=3&s=460'],
+ 'joined': u'Feb 18, 2011',
+ 'mail': 'None',
+ 'organization': u'texas',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'1.3k',
+ 'username': u'marctmiller'}

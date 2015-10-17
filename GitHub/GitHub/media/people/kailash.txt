@@ -1,0 +1,12 @@
+{'followers': u'16',
+ 'following': u'111',
+ 'fullname': u'kailash',
+ 'home_page': 'https://github.com/Kailashkatheth1',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/9437935?v=3&s=460'],
+ 'joined': u'Oct 28, 2014',
+ 'mail': u'kaialshkatheth56@gmail.com',
+ 'organization': u'www',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'14',
+ 'username': u'Kailashkatheth1'}

@@ -1,0 +1,12 @@
+{'followers': u'31',
+ 'following': u'32',
+ 'fullname': u'Daniel AL Monagas',
+ 'home_page': 'https://github.com/zokeber',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/2593840?v=3&s=460'],
+ 'joined': u'Oct 18, 2012',
+ 'mail': 'None',
+ 'organization': u'Playtika.com',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'1.2k',
+ 'username': u'zokeber'}

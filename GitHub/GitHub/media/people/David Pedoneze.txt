@@ -1,0 +1,12 @@
+{'followers': u'1',
+ 'following': u'1',
+ 'fullname': u'David Pedoneze',
+ 'home_page': 'https://github.com/dpedoneze',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/5757502?v=3&s=460'],
+ 'joined': u'Oct 23, 2013',
+ 'mail': u'dpedoneze@caiena.net',
+ 'organization': u'Caiena',
+ 'popular_repos': u'  compilers unesp base_project classroom datedropper',
+ 'repo_contributions': u'  education/classroom / / / /',
+ 'starred': u'33',
+ 'username': u'dpedoneze'}

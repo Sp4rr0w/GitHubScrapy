@@ -1,0 +1,12 @@
+{'followers': u'18',
+ 'following': u'244',
+ 'fullname': u'Rajeeva Lochan Musunuri',
+ 'home_page': 'https://github.com/omicsnut',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/2278936?v=3&s=460'],
+ 'joined': u'Sep 4, 2012',
+ 'mail': u'rlm452@nyu.edu',
+ 'organization': u'New York, USA',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'642',
+ 'username': u'omicsnut'}

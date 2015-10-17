@@ -1,0 +1,12 @@
+{'followers': u'190',
+ 'following': u'3.6k',
+ 'fullname': u'Salvo',
+ 'home_page': 'https://github.com/mssalvo',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/5181298?v=3&s=460'],
+ 'joined': u'Aug 7, 2013',
+ 'mail': u'salvo.mariniello@gmail.com',
+ 'organization': 'None',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'5',
+ 'username': u'mssalvo'}

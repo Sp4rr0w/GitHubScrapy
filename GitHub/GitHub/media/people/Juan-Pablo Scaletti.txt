@@ -1,0 +1,12 @@
+{'followers': u'55',
+ 'following': u'58',
+ 'fullname': u'Juan-Pablo Scaletti',
+ 'home_page': 'https://github.com/jpscaletti',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/31000?v=3&s=460'],
+ 'joined': u'Oct 25, 2008',
+ 'mail': u'juanpablo@lucumalabs.com',
+ 'organization': u'L\xfacuma labs',
+ 'popular_repos': u'  sunatlibre base36 slugify jinja-includewith python-faker',
+ 'repo_contributions': u'  lucuma/authcode lucuma/solution lucuma/sqlalchemy-wrapper lucuma/allspeak lucuma/Voodoo',
+ 'starred': u'329',
+ 'username': u'jpscaletti'}

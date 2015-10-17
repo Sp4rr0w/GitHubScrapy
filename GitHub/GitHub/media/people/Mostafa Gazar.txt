@@ -1,0 +1,12 @@
+{'followers': u'118',
+ 'following': u'19',
+ 'fullname': u'Mostafa Gazar',
+ 'home_page': 'https://github.com/MostafaGazar',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/87605?v=3&s=460'],
+ 'joined': u'May 22, 2009',
+ 'mail': u'mmegazar@gmail.com',
+ 'organization': u'Auckland, New Zealand',
+ 'popular_repos': u'  CustomShapeImageView soas Widgets lastfm-android Emailer',
+ 'repo_contributions': u'  hoverchat/drawable-utils-android / / / /',
+ 'starred': u'286',
+ 'username': u'MostafaGazar'}

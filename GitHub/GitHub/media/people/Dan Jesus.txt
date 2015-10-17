@@ -1,0 +1,12 @@
+{'followers': u'98',
+ 'following': u'503',
+ 'fullname': u'Dan Jesus',
+ 'home_page': 'https://github.com/danjesus',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/393961?v=3&s=460'],
+ 'joined': u'Sep 9, 2010',
+ 'mail': u'danper.jesus@gmail.com',
+ 'organization': u'Tripda',
+ 'popular_repos': u'  phpt-sublime-snippet sampajs-2014 gulp-phrase bons-front-enders try_git',
+ 'repo_contributions': u'  TripdaApp/Tripda-Search-Worker TripdaApp/facebook-tests-users wbond/package_control_channel airpair/consult.airpair.com codelandev/geo-contrast',
+ 'starred': u'673',
+ 'username': u'danjesus'}

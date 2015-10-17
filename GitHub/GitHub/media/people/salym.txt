@@ -1,0 +1,12 @@
+{'followers': u'14',
+ 'following': u'96',
+ 'fullname': u'salym',
+ 'home_page': 'https://github.com/lym',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/783970?v=3&s=460'],
+ 'joined': u'May 12, 2011',
+ 'mail': u'salymsash@gmail.com',
+ 'organization': u'kampala, Uganda',
+ 'popular_repos': u'  lymstore railscasts ActiveRecordWithoutRails scoolmgr backbone-todo',
+ 'repo_contributions': u'  facebook/watchman / / / /',
+ 'starred': u'824',
+ 'username': u'lym'}

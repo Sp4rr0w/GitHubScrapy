@@ -1,0 +1,12 @@
+{'followers': u'32',
+ 'following': u'197',
+ 'fullname': u'Ali Halabyah',
+ 'home_page': 'https://github.com/alihalabyah',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/1836535?v=3&s=460'],
+ 'joined': u'Jun 10, 2012',
+ 'mail': u'alihalabyah@gmail.com',
+ 'organization': u'Fetchr',
+ 'popular_repos': u'  LinkedIn-Auto-Endorse Bulkscreenshots slider.js airbrake-js Boxify',
+ 'repo_contributions': u'  fetchr/OpenCart-Fetchr fetchr/PrestaShop-Fetchr Minglong/Magento-unicode-URL cnanney/css-flip-counter MadisonReed/magentoapi',
+ 'starred': u'2.7k',
+ 'username': u'alihalabyah'}

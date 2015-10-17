@@ -1,0 +1,12 @@
+{'followers': u'27',
+ 'following': u'347',
+ 'fullname': u'LaborAutonomo',
+ 'home_page': 'https://github.com/laborautonomo',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/4250338?v=3&s=460'],
+ 'joined': u'Apr 24, 2013',
+ 'mail': u'fabio@laborautonomo.org',
+ 'organization': u'Brasil',
+ 'popular_repos': u'  laborautonomo-site motosucata-django xliff-file-generator vagrant-debian-7.4-x64-webserver django-la-cms',
+ 'repo_contributions': u'  jboard/jboard-api jboard/jboard-web / / /',
+ 'starred': u'298',
+ 'username': u'laborautonomo'}

@@ -1,0 +1,12 @@
+{'followers': u'84',
+ 'following': u'58',
+ 'fullname': u'Igor P. Leroy',
+ 'home_page': 'https://github.com/lerrua',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/154603?v=3&s=460'],
+ 'joined': u'Nov 17, 2009',
+ 'mail': u'ip.leroy@gmail.com',
+ 'organization': u'Catarse',
+ 'popular_repos': u'  remote-jobs-brazil merlin-engine django-grappelli-extensions Dotfiles django-allejo',
+ 'repo_contributions': u'  catarse/catarse avelino/vim-bootstrap catarse/catarse.js opps/opps pagarme/pagarme-python',
+ 'starred': u'919',
+ 'username': u'lerrua'}

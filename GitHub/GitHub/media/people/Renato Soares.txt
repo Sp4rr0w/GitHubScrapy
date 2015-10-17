@@ -1,0 +1,12 @@
+{'followers': u'16',
+ 'following': u'21',
+ 'fullname': u'Renato Soares',
+ 'home_page': 'https://github.com/renatosoares',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/2559693?v=3&s=460'],
+ 'joined': u'Oct 14, 2012',
+ 'mail': 'None',
+ 'organization': u'Natal RN Brasil',
+ 'popular_repos': u'  assembly-array PDS---Eu_Vou agendawpf assembly-matriz agencia-busca-certa',
+ 'repo_contributions': u'  LuanGB/PDS-EuVou / / / /',
+ 'starred': u'23',
+ 'username': u'renatosoares'}

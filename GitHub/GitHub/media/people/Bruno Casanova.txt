@@ -1,0 +1,12 @@
+{'followers': u'722',
+ 'following': u'49k',
+ 'fullname': u'Bruno Casanova',
+ 'home_page': 'https://github.com/brunocasanova',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/4107768?v=3&s=460'],
+ 'joined': u'Apr 9, 2013',
+ 'mail': u'deftonicks_me@hotmail.com',
+ 'organization': u'Junglecloud',
+ 'popular_repos': u'  chathellup zewtree uptoload ldapjs_auth atom-config',
+ 'repo_contributions': u'  findhit/auto-advanced-search findhit/snitcher emvici/router findhit/atom-config findhit/util',
+ 'starred': u'82',
+ 'username': u'brunocasanova'}

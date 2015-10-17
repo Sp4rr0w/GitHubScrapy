@@ -1,0 +1,12 @@
+{'followers': u'21',
+ 'following': u'130',
+ 'fullname': u'Patrick Costa',
+ 'home_page': 'https://github.com/patrickrbc',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/2023252?v=3&s=460'],
+ 'joined': u'Jul 22, 2012',
+ 'mail': u'github@patrickrbc.com',
+ 'organization': u'Recife, Brazil',
+ 'popular_repos': u'  vim-monokai gmaps-bus-routes blog URI boilerplate',
+ 'repo_contributions': u'  nograu/imobox_project nograu/documentos manguezal/manguezal.github.com BackshopCollege/backshop-college-nodejs /',
+ 'starred': u'114',
+ 'username': u'patrickrbc'}

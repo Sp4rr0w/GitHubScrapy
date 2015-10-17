@@ -1,0 +1,12 @@
+{'followers': u'49',
+ 'following': u'134',
+ 'fullname': u'Gabriel Masson',
+ 'home_page': 'https://github.com/gmasson',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/8229909?v=3&s=460'],
+ 'joined': u'Jul 22, 2014',
+ 'mail': 'None',
+ 'organization': u'Forbit',
+ 'popular_repos': u'  nuxtool karine gmasson.github.io boletophp MyConnectPHP',
+ 'repo_contributions': u'  kajado/kajado tocadotux/unix-toolbox tocadotux/tocadotux.github.io happyto/templates kajado/kajado.github.io',
+ 'starred': u'102',
+ 'username': u'gmasson'}

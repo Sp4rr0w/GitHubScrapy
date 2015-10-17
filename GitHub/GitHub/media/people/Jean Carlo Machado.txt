@@ -1,0 +1,12 @@
+{'followers': u'33',
+ 'following': u'169',
+ 'fullname': u'Jean Carlo Machado',
+ 'home_page': 'https://github.com/jeanCarloMachado',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/2252355?v=3&s=460'],
+ 'joined': u'Aug 31, 2012',
+ 'mail': u'contato@jeancarlomachado.com.br',
+ 'organization': u'Compufour',
+ 'popular_repos': u'  system_framework VinniEditor abradi AckProduct dotfiles',
+ 'repo_contributions': u'  svanoort/pyresttest eminetto/ZendSkeletonApplication pdepend/pdepend Coderockr/docker-apache zendframework/zend-servicemanager',
+ 'starred': u'304',
+ 'username': u'jeanCarloMachado'}

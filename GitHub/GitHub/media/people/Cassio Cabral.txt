@@ -1,0 +1,12 @@
+{'followers': u'10',
+ 'following': u'59',
+ 'fullname': u'Cassio Cabral',
+ 'home_page': 'https://github.com/cassioscabral',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/2073557?v=3&s=460'],
+ 'joined': u'Jul 31, 2012',
+ 'mail': u'cassioscabral@gmail.com',
+ 'organization': u'Jo\xe3o Pessoa',
+ 'popular_repos': u'  rateissues spree2_pagseguro integratechCaroneiro depot url_shortener',
+ 'repo_contributions': u'  michael/github / / / /',
+ 'starred': u'65',
+ 'username': u'cassioscabral'}

@@ -1,0 +1,12 @@
+{'followers': u'16',
+ 'following': u'14',
+ 'fullname': u'Ivo Lima',
+ 'home_page': 'https://github.com/ivolima',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/1280797?v=3&s=460'],
+ 'joined': u'Dec 22, 2011',
+ 'mail': 'None',
+ 'organization': u'JusBrasil',
+ 'popular_repos': u'  bitbucket-pullrequest-builder-plugin bitstarter jenkins-job-builder multipserve opencv-haar-classifier-training',
+ 'repo_contributions': u'  wsoares/tutorial_django_rest / / / /',
+ 'starred': u'41',
+ 'username': u'ivolima'}

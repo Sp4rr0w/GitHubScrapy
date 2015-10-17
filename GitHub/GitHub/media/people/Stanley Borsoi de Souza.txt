@@ -1,0 +1,12 @@
+{'followers': u'44',
+ 'following': u'463',
+ 'fullname': u'Stanley Borsoi de Souza',
+ 'home_page': 'https://github.com/stanleybosoi',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/2984330?v=3&s=460'],
+ 'joined': u'Dec 6, 2012',
+ 'mail': u'stanley.borsoi@gmail.com',
+ 'organization': u'Cachoeiro de Itapemirim, ES',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'0',
+ 'username': u'stanleybosoi'}

@@ -1,0 +1,12 @@
+{'followers': u'294',
+ 'following': u'11.9k',
+ 'fullname': u'James Michael DuPont',
+ 'home_page': 'https://github.com/h4ck3rm1k3',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/34903?v=3&s=460'],
+ 'joined': u'Nov 17, 2008',
+ 'mail': u'JamesMikeDuPont@gmail.com',
+ 'organization': u'Introspector Software Services',
+ 'popular_repos': u'  hiphop-php wikiteam GWTOsm InDirectDWG freescada-libmbus',
+ 'repo_contributions': u'  KansasLinuxFest/website klavatroniq/homepage IndianHillsLawrence/website flosokaks/bylaws speedydeletion/pywikibot',
+ 'starred': u'1.9k',
+ 'username': u'h4ck3rm1k3'}

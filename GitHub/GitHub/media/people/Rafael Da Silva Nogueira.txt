@@ -1,0 +1,12 @@
+{'followers': u'7',
+ 'following': u'21',
+ 'fullname': u'Rafael Da Silva Nogueira',
+ 'home_page': 'https://github.com/nightosama',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/3669101?v=3&s=460'],
+ 'joined': u'Feb 22, 2013',
+ 'mail': u'silva.rafael@ig.com.br',
+ 'organization': u'S\xe3o Paulo - Brazil',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'2',
+ 'username': u'nightosama'}

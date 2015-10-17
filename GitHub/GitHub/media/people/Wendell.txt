@@ -1,0 +1,12 @@
+{'followers': u'13',
+ 'following': u'14',
+ 'fullname': u'Wendell',
+ 'home_page': 'https://github.com/Holden-',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/7854818?v=3&s=460'],
+ 'joined': u'Jun 11, 2014',
+ 'mail': u'wendellholden@hotmail.com',
+ 'organization': u'Natal, RN',
+ 'popular_repos': u'  multiplayer-example XNAGame   ',
+ 'repo_contributions': u'  PDS2015RC/reino / / / /',
+ 'starred': u'1',
+ 'username': u'Holden-'}

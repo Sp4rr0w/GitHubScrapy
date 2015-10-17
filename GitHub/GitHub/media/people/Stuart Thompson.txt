@@ -1,0 +1,12 @@
+{'followers': u'12',
+ 'following': u'88',
+ 'fullname': u'Stuart Thompson',
+ 'home_page': 'https://github.com/stuartathompson',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/1656462?v=3&s=460'],
+ 'joined': u'Apr 18, 2012',
+ 'mail': 'None',
+ 'organization': u'The Wall Street Journal',
+ 'popular_repos': u'  node-archieml-boilerplate Mobile-Olympics-Tool northline Breaking-Rank to-title-case',
+ 'repo_contributions': u'  flimshaw/Valiant360 / / / /',
+ 'starred': u'5',
+ 'username': u'stuartathompson'}

@@ -1,0 +1,12 @@
+{'followers': u'27',
+ 'following': u'45',
+ 'fullname': u'Ivan Rocha',
+ 'home_page': 'https://github.com/ivancrneto',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/21749?v=3&s=460'],
+ 'joined': u'Aug 24, 2008',
+ 'mail': u'ivan.cr.neto@gmail.com',
+ 'organization': u'Toptal',
+ 'popular_repos': u'  hip2slack-emoji will fesc angular-example grupy-ba',
+ 'repo_contributions': u'  mixxorz/behave-django django-behave/django-behave jsatt/django-variant rodnaph/vim-color-schemes avelino/vim-bootstrap',
+ 'starred': u'126',
+ 'username': u'ivancrneto'}

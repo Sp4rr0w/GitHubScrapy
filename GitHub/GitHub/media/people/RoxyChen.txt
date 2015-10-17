@@ -1,0 +1,12 @@
+{'followers': u'7',
+ 'following': u'14',
+ 'fullname': u'RoxyChen',
+ 'home_page': 'https://github.com/VANITAX',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/6407666?v=3&s=460'],
+ 'joined': u'Jan 15, 2014',
+ 'mail': 'None',
+ 'organization': u'Dramanita',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'31',
+ 'username': u'VANITAX'}

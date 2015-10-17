@@ -1,0 +1,12 @@
+{'followers': u'4',
+ 'following': u'58',
+ 'fullname': u'Tom Melo',
+ 'home_page': 'https://github.com/tommelo',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/5882081?v=3&s=460'],
+ 'joined': u'Nov 7, 2013',
+ 'mail': 'None',
+ 'organization': u'IT Gorillaz',
+ 'popular_repos': u'  easyrtc swing-lifecycle validator.lua node-jsonwebtoken pegasus.lua',
+ 'repo_contributions': u'  it-gorillaz/capuchin it-gorillaz/postmangen / / /',
+ 'starred': u'25',
+ 'username': u'tommelo'}

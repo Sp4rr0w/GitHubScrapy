@@ -1,0 +1,12 @@
+{'followers': u'47',
+ 'following': u'401',
+ 'fullname': u'Emirias',
+ 'home_page': 'https://github.com/emirias1',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/13353815?v=3&s=460'],
+ 'joined': u'Jul 15, 2015',
+ 'mail': 'None',
+ 'organization': u'Emirias',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'0',
+ 'username': u'emirias1'}

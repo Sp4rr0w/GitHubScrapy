@@ -1,0 +1,12 @@
+{'followers': u'70',
+ 'following': u'12',
+ 'fullname': u'Andrew Tork Baker',
+ 'home_page': 'https://github.com/atbaker',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/826669?v=3&s=460'],
+ 'joined': u'Jun 3, 2011',
+ 'mail': 'None',
+ 'organization': u'Twilio',
+ 'popular_repos': u'  spin-docker hypermasher docker-workshop docker-tutorial sd-django',
+ 'repo_contributions': u'  TwilioDevEd/appointment-reminders-django TwilioDevEd/call-tracking-django TwilioDevEd/browser-calls-django MayOneUS/mayday-2.0-backend TwilioDevEd/appointment-reminders-flask',
+ 'starred': u'118',
+ 'username': u'atbaker'}

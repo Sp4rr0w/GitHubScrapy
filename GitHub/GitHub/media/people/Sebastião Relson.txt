@@ -1,0 +1,12 @@
+{'followers': u'32',
+ 'following': u'413',
+ 'fullname': u'Sebasti\xe3o Relson',
+ 'home_page': 'https://github.com/relson',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/81361?v=3&s=460'],
+ 'joined': u'May 5, 2009',
+ 'mail': u'relsonto@gmail.com',
+ 'organization': u'Aser Security',
+ 'popular_repos': u'  tccp42 AgendaRS try_git yui3-gallery JConsoleUtils',
+ 'repo_contributions': u'  ogilvieira/dev-podcast-list-brazil Webschool-io/WebschoolMagazine-Jobs nfscan/ocr-process-service / /',
+ 'starred': u'393',
+ 'username': u'relson'}

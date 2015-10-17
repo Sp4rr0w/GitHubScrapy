@@ -1,0 +1,12 @@
+{'followers': u'3',
+ 'following': u'5',
+ 'fullname': u'Igor Sazonov',
+ 'home_page': 'https://github.com/tigusigalpa',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/2721390?v=3&s=460'],
+ 'joined': u'Nov 4, 2012',
+ 'mail': u'sovletig@yandex.ru',
+ 'organization': u'Saint-Petersburg, Russia',
+ 'popular_repos': u'  lenslider moodle-auth_lenauth jQuery-UI-tabs-Rotate-Pause-on-hover jGrowl lenslider-dev',
+ 'repo_contributions': u'  Piter-United/puportal WP-API/WP-API gskinner/regexr FortAwesome/Font-Awesome /',
+ 'starred': u'17',
+ 'username': u'tigusigalpa'}

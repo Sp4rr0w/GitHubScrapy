@@ -1,0 +1,12 @@
+{'followers': u'172',
+ 'following': u'863',
+ 'fullname': u'Golddiamonds',
+ 'home_page': 'https://github.com/golddiamonds',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/3688834?v=3&s=460'],
+ 'joined': u'Feb 25, 2013',
+ 'mail': 'None',
+ 'organization': u'the Bay, CA',
+ 'popular_repos': u'  clusterkiss BreakOuttaHere projecteuler python-gmail goal_flask_app',
+ 'repo_contributions': u'  ofbytesandmen/tofu-newsletter ofbytesandmen/tofu / / /',
+ 'starred': u'21',
+ 'username': u'golddiamonds'}

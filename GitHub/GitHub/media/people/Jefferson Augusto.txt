@@ -1,0 +1,12 @@
+{'followers': u'16',
+ 'following': u'16',
+ 'fullname': u'Jefferson Augusto',
+ 'home_page': 'https://github.com/jeffersonxplode',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/8538985?v=3&s=460'],
+ 'joined': u'Aug 24, 2014',
+ 'mail': u'jeffersonxplode@gmail.com',
+ 'organization': u'Natal/RN',
+ 'popular_repos': u'  C CSharp speakerfight Web ',
+ 'repo_contributions': u'  PDS2015RC/reino / / / /',
+ 'starred': u'1',
+ 'username': u'jeffersonxplode'}

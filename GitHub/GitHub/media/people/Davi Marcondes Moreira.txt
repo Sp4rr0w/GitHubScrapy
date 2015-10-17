@@ -1,0 +1,12 @@
+{'followers': u'40',
+ 'following': u'110',
+ 'fullname': u'Davi Marcondes Moreira',
+ 'home_page': 'https://github.com/devdrops',
+ 'image_urls': [u'https://avatars2.githubusercontent.com/u/1259313?v=3&s=460'],
+ 'joined': u'Dec 13, 2011',
+ 'mail': u'davi.marcondes.moreira@gmail.com',
+ 'organization': u'ClickBus',
+ 'popular_repos': u'  silex-application sco.js openshift-silex-application polyglotness Cielo',
+ 'repo_contributions': u'  RocketBus/clickbus-api-doc guipdutra/awesome-geek-podcasts marcelsud/diffcs DevGears/phpcra revolunet/PythonBooks',
+ 'starred': u'728',
+ 'username': u'devdrops'}

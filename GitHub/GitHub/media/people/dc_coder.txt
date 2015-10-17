@@ -1,0 +1,12 @@
+{'followers': u'26',
+ 'following': u'104',
+ 'fullname': u'dc_coder',
+ 'home_page': 'https://github.com/jvrunion',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/651099?v=3&s=460'],
+ 'joined': u'Mar 4, 2011',
+ 'mail': u'jvrunion@gmail.com',
+ 'organization': u'Front End Specialist / Sapient Nitro ',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'155',
+ 'username': u'jvrunion'}

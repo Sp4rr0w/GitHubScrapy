@@ -1,0 +1,12 @@
+{'followers': u'13',
+ 'following': u'44',
+ 'fullname': u'Mark Busenitz',
+ 'home_page': 'https://github.com/mucbuc',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/2599432?v=3&s=460'],
+ 'joined': u'Oct 19, 2012',
+ 'mail': u'mbusenitz@gmail.com',
+ 'organization': 'None',
+ 'popular_repos': u'  expector autist gui rasterfont auto-logic',
+ 'repo_contributions': u'  mbusenitz/traverse nodejs/node-v0.x-archive / / /',
+ 'starred': u'34',
+ 'username': u'mucbuc'}

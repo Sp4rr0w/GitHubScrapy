@@ -1,0 +1,12 @@
+{'followers': u'18',
+ 'following': u'60',
+ 'fullname': u'P\xe9ricles de Macedo Dantas',
+ 'home_page': 'https://github.com/periclesmacedo',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/3295739?v=3&s=460'],
+ 'joined': u'Jan 17, 2013',
+ 'mail': u'periclesmacedo@gmail.com',
+ 'organization': 'None',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'68',
+ 'username': u'periclesmacedo'}

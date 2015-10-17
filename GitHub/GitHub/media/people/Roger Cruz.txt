@@ -1,0 +1,12 @@
+{'followers': u'10',
+ 'following': u'6',
+ 'fullname': u'Roger Cruz',
+ 'home_page': 'https://github.com/SparK-Cruz',
+ 'image_urls': [u'https://avatars1.githubusercontent.com/u/1179000?v=3&s=460'],
+ 'joined': u'Nov 7, 2011',
+ 'mail': 'None',
+ 'organization': u'ateliware',
+ 'popular_repos': u'  elpho pipefy-harvest-chrome WebSocket4Net  ',
+ 'repo_contributions': u'  ateliware/pipefy-harvest-chrome raphaelpereira/Backbone.RailsStore / / /',
+ 'starred': u'9',
+ 'username': u'SparK-Cruz'}

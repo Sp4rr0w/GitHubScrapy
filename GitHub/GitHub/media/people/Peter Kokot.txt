@@ -1,0 +1,12 @@
+{'followers': u'306',
+ 'following': u'2.6k',
+ 'fullname': u'Peter Kokot',
+ 'home_page': 'https://github.com/peterkokot',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/1614009?v=3&s=460'],
+ 'joined': u'Apr 5, 2012',
+ 'mail': u'peterkokot@gmail.com',
+ 'organization': u'Maastermedia',
+ 'popular_repos': u'  awesome-jquery awesome-dojo awesome-community php-skeleton phprst',
+ 'repo_contributions': u'  wwphp-fb/php-resources wwphp-fb/wwphp-fb.github.io jlevy/the-art-of-command-line symfony/symfony-marketing progit/progit2-sl',
+ 'starred': u'232',
+ 'username': u'peterkokot'}

@@ -1,0 +1,12 @@
+{'followers': u'6',
+ 'following': u'23',
+ 'fullname': u'Edgard Rosberg Duarte Leal',
+ 'home_page': 'https://github.com/edgardleal',
+ 'image_urls': [u'https://avatars0.githubusercontent.com/u/1612250?v=3&s=460'],
+ 'joined': u'Apr 4, 2012',
+ 'mail': u'edgardleal@gmail.com',
+ 'organization': u'Soledade Tecnologia',
+ 'popular_repos': u'  jquery.piegraph jquery-simpletable r2d2 aichallenge git-reports',
+ 'repo_contributions': u'  victorlss/jquery-master-pages danilomiranda/listtree / / /',
+ 'starred': u'115',
+ 'username': u'edgardleal'}

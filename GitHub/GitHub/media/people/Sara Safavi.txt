@@ -1,0 +1,12 @@
+{'followers': u'23',
+ 'following': u'12',
+ 'fullname': u'Sara Safavi',
+ 'home_page': 'https://github.com/sarasafavi',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/1209376?v=3&s=460'],
+ 'joined': u'Nov 21, 2011',
+ 'mail': u'github@sarasafavi.com',
+ 'organization': u'Austin, TX',
+ 'popular_repos': u'  introdjango pyshp_mapping_demo .vim gitworkshop young-coders-tutorial',
+ 'repo_contributions': u'  rnelsonchem/simpledbf JasonSanford/foss4g-na-map atx-osg/atx-osg.github.io / /',
+ 'starred': u'38',
+ 'username': u'sarasafavi'}

@@ -1,0 +1,12 @@
+{'followers': u'1',
+ 'following': u'1',
+ 'fullname': u'Dara Ingrid',
+ 'home_page': 'https://github.com/daraingrid',
+ 'image_urls': [u'https://avatars3.githubusercontent.com/u/10481888?v=3&s=460'],
+ 'joined': u'Jan 11, 2015',
+ 'mail': u'daraingrid1994@gmail.com',
+ 'organization': 'None',
+ 'popular_repos': '      ',
+ 'repo_contributions': '  / / / / /',
+ 'starred': u'0',
+ 'username': u'daraingrid'}
