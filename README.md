@@ -2,6 +2,7 @@
 运行：scrapy crawl github
 
 一.目录介绍
+
 1.crawl目录存放的是按ctrl+c暂停后
 运行scrapy crawl github -s JOBDIR=crawl/github_stop（暂停后再运行使用） 时的信息，里面是github_stop目录，
 接着里面是requests.queue目录、request.seen 、spider.state。
