@@ -15,7 +15,10 @@
 
 5.logs文件记录的是爬取的具体信息。
 
-6.GitHub01_data_utf-8.json等文件是经多次测试后存留的文件QAQ。
+6.GitHub01_data_utf-8.json等文件是经多次测试后存留的文件QAQ。（有重复信息，但是另外保存的个人txt文件没重复，在people文件夹里面）
+
+7.scrapy_loop.jpg
+
 
 运行此爬虫还需要下载NOSQL（MonGoDB），及MongoVUE（windows下的软件）。
 
