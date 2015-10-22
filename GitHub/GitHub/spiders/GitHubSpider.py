@@ -216,7 +216,8 @@ class GithubSpider(Spider):
     def filesnum(self):#获取已下载用户的txt文件数量
         global filecount 
         filecount = 0
-        path2 = r'e://scrapy/GitHub/GitHub/media/people'
+        path2 = r'GitHub\media\people'
+        #path2 = r'e://scrapy/GitHub/GitHub/media/people'
         for root, dirs, files in os.walk(path2):
             #print files
             fileLength = len(files)
